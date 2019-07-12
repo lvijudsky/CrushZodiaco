@@ -1,5 +1,5 @@
 <?php 
-
+// Mais uma alteração para marcar o arquivo com modificado.
 //print_r($_GET);
 $pos = $_GET['pos'];
 //echo "A posição pedida é $pos";
